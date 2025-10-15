@@ -5,10 +5,8 @@ This project focuses on understanding and implementing the **core logic** behind
 
 ## 🚀 Features
 - 📅 Interactive monthly, weekly, and daily calendar views  
-- 🧭 Add, edit, and delete events dynamically  
-- 👥 User authentication (login & registration)  
+- 🧭 Add, edit, and delete events dynamically    
 - 💾 Persistent event storage using MySQL database  
-- 🔄 AJAX-based event updates (no page reloads)  
 - 🎨 Custom-built responsive UI with pure CSS (no frameworks)  
 
 ## 🛠️ Tech Stack
